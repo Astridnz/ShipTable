@@ -1,0 +1,40 @@
+body{
+  background-color: #ebeef7;
+}
+
+caption{
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+  border-radius: 10px 10px 0px 0px;
+  line-height: 2em;
+}
+
+table{
+  background-color: white;
+  font-family: "roboto", sans-serif;
+  text-align: left;
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ebeef7;
+  
+}
+th{
+  border: 1px solid #ebeef7;
+  padding: 15px;
+}
+
+td{
+  border: 1px solid #ebeef7;
+  padding: 10px;
+}
+
+button{
+  border: none;
+  background-color: white;
+}
+
+span{
+  color: lightgrey;
+}
